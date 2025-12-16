@@ -363,6 +363,7 @@ int main()
 		}
 		if (basket[5] >= 4)
 		{
+
 			cout << "В подарок " << basket[5] / 4 << " банки!\n";
 		}
 		if (sum < 777 && basket[5] < 4 && basket[8] < 3)
